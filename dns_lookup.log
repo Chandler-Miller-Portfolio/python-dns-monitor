@@ -1,0 +1,16 @@
+2025-04-02 16:06:58,732 - INFO - Resolved google.com to 142.250.72.46 with TTL 202
+2025-04-02 16:06:58,752 - INFO - Resolved openai.com to 104.18.33.45 with TTL 37
+2025-04-02 16:06:58,752 - INFO - Resolved openai.com to 172.64.154.211 with TTL 37
+2025-04-02 16:06:58,762 - INFO - Resolved apple.com to 17.253.144.10 with TTL 509
+2025-04-02 16:11:59,486 - INFO - Resolved google.com to 142.250.72.46 with TTL 199
+2025-04-02 16:11:59,520 - INFO - Resolved openai.com to 172.64.154.211 with TTL 60
+2025-04-02 16:11:59,520 - INFO - Resolved openai.com to 104.18.33.45 with TTL 60
+2025-04-02 16:11:59,525 - INFO - Resolved apple.com to 17.253.144.10 with TTL 208
+2025-04-02 16:17:00,259 - INFO - Resolved google.com to 142.250.72.46 with TTL 196
+2025-04-02 16:17:00,349 - INFO - Resolved openai.com to 172.64.154.211 with TTL 38
+2025-04-02 16:17:00,349 - INFO - Resolved openai.com to 104.18.33.45 with TTL 38
+2025-04-02 16:17:00,358 - INFO - Resolved apple.com to 17.253.144.10 with TTL 805
+2025-04-02 16:22:01,105 - INFO - Resolved google.com to 142.250.72.46 with TTL 19
+2025-04-02 16:22:03,123 - INFO - Resolved openai.com to 104.18.33.45 with TTL 60
+2025-04-02 16:22:03,123 - INFO - Resolved openai.com to 172.64.154.211 with TTL 60
+2025-04-02 16:22:03,126 - INFO - Resolved apple.com to 17.253.144.10 with TTL 617
